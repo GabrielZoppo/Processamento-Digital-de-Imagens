@@ -1,4 +1,4 @@
-# Processamento-Digital-de-Imagens
+# Processamento-Digital-de-Sinais
 
 ## Lista 2 Códigos Matlab
 
